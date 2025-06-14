@@ -9,18 +9,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello!
+Hi, I'm **Souptik Chakraborty** — a Risk & Compliance Analyst with over 4 years of experience at Amazon. I specialize in AML/KYC risk modeling, control governance, SQL-based data analytics, and process automation.
 
-I'm a researcher at OpenAI.
-Previously, I was a PhD student in machine learning at Stanford University co-advised by [Percy Liang](https://cs.stanford.edu/~pliang/) and [Tatsu Hashimoto](https://thashim.github.io/) and funded by a [Knights-Hennessy Scholarship](https://knight-hennessy.stanford.edu/).
-Before that I traveled around and did some research at the [Vector Institute](https://vectorinstitute.ai/) did my AI residency at [Facebook AI](https://research.fb.com/programs/facebook-ai-residency-program/), and worked in different startups including [Grab](https://en.wikipedia.org/wiki/Grab_(company)) where I was designing algorithms to analyze text in under-research languages (Thai, Khmer, Burmese, ...) before LLMs were a thing.
+I’ve helped build and deploy risk controls that have prevented over **$13.6M in fraud**, and improved internal audit readiness by 30%.
 
-Outside of machine learning I spend my time exercising with friends (:ski:,:mountain:,:badminton:,:volleyball:,:runner:), traveling, or reading about geopolitics.
+🔍 I’m passionate about data-driven decision making, and currently exploring how AI and real-time dashboards can modernize compliance operations.
 
-<!-- News
-======
-- May 2021: Incredibly honored to have been selected as a [Knights-Hennessy Scholar](https://knight-hennessy.stanford.edu/).
-- April 2021: I will be starting my PhD at Stanford University in September 2021.
-- September 2020: Just finished my Facebook AI residency. Next up: internship at Vector Institute for one year.
-
- -->
+📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/souptik-chakraborty-67385a18a/) or check out my work on [GitHub](https://github.com/Souptik96).
